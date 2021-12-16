@@ -8,7 +8,7 @@ The project requires the following environment variables:
 * **clientId** - from a service account as described above
 * **clientSecret** - from a service account as described above
 * **apicentralUrl** - https://apicentral.axway.com or the URL for your region
-* **apikey** - an API Key that you provide. You pass this key as a header using apikey as the key and the value you enter here. These are configured in your Central Discovery Agent environment YAML file
+* **apikey** - an API Key that you provide. You pass this key as a header using apikey as the key and the value you enter here. These are configured in your Central Discovery Agent environment file
 
 This project uses these npm packages:
 * [**https://www.npmjs.com/package/axios**](https://www.npmjs.com/package/axios)
